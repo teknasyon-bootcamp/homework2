@@ -17,6 +17,6 @@
  *
  * - Elde ettiğiniz bu sayıyı da kullanarak `getLatestPosts` fonksiyonunu
  * çalıştırmalısınız. Bu fonksiyondan aldığınız diziyi kullanarak `post.php` betik
- * dosyasını dahil etmeli ve her yazı için detayları göstermelisiniz.
+ * dosyasını döngü içinde dahil etmeli ve her yazı için detayları göstermelisiniz.
  */
 
